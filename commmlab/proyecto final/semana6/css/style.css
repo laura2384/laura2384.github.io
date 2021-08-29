@@ -1,0 +1,76 @@
+body{
+  background-color: #00B0B0;
+}
+h1 {
+	font-family: "Kaisei HarunoUmi', serif;";
+	color: white;
+  font-size: 60px;
+  text-align: center;
+  position: static;
+}
+body{
+  font-family: "helvetica";
+}
+a{
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 10px;
+  background: grey;
+  position: static;
+}
+a:link {
+  color: #00B0B0;
+}
+a:hover{
+  text-decoration: underline;
+  font-size: 18px;
+  background: grey;
+  box-shadow: 0px 2px 0px #000;
+}
+h3{
+  font-family: "Kaisei HarunoUmi', serif;";
+  color: white;
+}
+h5{
+  font-family:"Kaisei HarunoUmi', serif;";
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+h6{
+  font-family: monospace;
+  color: #000;
+  text-align: right;
+}
+
+a{
+  color: #00B0B0;
+}
+.main{
+  height: 600px;
+  max-width: 800px;
+  max-height: none;
+  margin: 20px 40px;
+  }
+
+
+  .slides img{
+    height: 500px;
+    width: 600px;
+    bottom: 500px;
+      max-height: none;
+  }
+
+
+.slidesjs-navigation{
+
+  background: #000;
+  color: #00B0B0;
+  text-decoration:none;
+  display: inline;
+  padding:none;
+float:right;
+
+}
